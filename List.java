@@ -1,10 +1,3 @@
-/*
-Daniel Venable and Dylan Driscoll
-1/26/23
-CS 145
-Assignment 2 - Phone Book
-*/
-
 // This class represents a list of phonebook entries
 
 public class List<Data> {
