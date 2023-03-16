@@ -1,10 +1,3 @@
-/*
-1/29/23
-Daniel Venable and Dylan Driscoll
-CS 145
-Assignment 2 - Phone Book
-*/
-
 import java.util.Scanner;
 
 // This class is a user interface for interacting with the phonebook.
