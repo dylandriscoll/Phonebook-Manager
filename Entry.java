@@ -1,10 +1,3 @@
-/*
-Daniel Venable and Dylan Driscoll
-1/26/23
-CS 145
-Assignment 2 - Phone Book
-*/
-
 import java.io.PrintStream;
 import java.util.*;
 
